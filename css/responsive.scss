@@ -10,7 +10,6 @@ $secondFont: 'Dosis', sans-serif;
 		width: 22.5%;
 	}
 
-
 	.gallery-item{
 		width: 33.333%; 
 		height: 408px;
@@ -25,6 +24,11 @@ $secondFont: 'Dosis', sans-serif;
 				display: none;
 			}
 		}
+	}
+
+	.footer-item-link{
+		width: 100%;
+		text-align: center;
 	}
 }	
 
@@ -171,6 +175,10 @@ $secondFont: 'Dosis', sans-serif;
 
 	.header-logo{
 		margin-left: 25px;
+	}
+
+	.header-links{
+		width: 30.5%;
 	}
 
 	.top-question{
